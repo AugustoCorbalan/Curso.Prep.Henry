@@ -1,0 +1,12 @@
+for: Es un statments  que nos permite realizar bucles. En su interior colocamos el codigo que queremos que se ejecute mientras se cumpla la condicion que le indicamos.
+     La sintaxis es:
+                      for (var i=0; i<10; i++){
+
+                          Acá va el codigo que queremos que se ejecute.
+                      }
+
+                      Dentro del paréntesis se coloca primero la variable que condiciona. Luego la condición. Y luego la expresión que incrementa el valor de nuestra variable inicial en cada iteración.
+
+&&: Este esun operador lógico. El cual opera con variables booleanas. Este operador nos devuelve "True" únicamente en el caso que ambos valores booleanos son "True".
+||:Es un operador logico denominado or ó o. El cual nos devuelve "True" en el caso que cualquiera de los dos valores booleanos sea "True"
+!: Operador de negación. Este operador niega lo que tiene a continuación. Es decir si se lo aplicamos a algo  que es "True", nos devuelve "False". Y viceversa.
